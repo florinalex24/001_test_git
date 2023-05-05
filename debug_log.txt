@@ -1,0 +1,9 @@
+server_date          - entity_type  - entity_name                    - current_status  - additional_details
+2022-05-26T12:46:44  - file         - 1093167.svg                    - Incomplete upload, skipping... - 
+2022-05-26T12:46:45  - file         - 55503625839-957858651-ticket.pdf - Incomplete upload, skipping... - 
+2022-05-26T12:46:46  - file         - dataset_test_3.csv             - Incomplete upload, skipping... - 
+2022-05-26T12:46:58  - folder       - testa                          - started         - entity_id(s): []
+2022-05-26T12:46:58  - file         - dataset_test_3.csv             - started         - file_id: 0
+2022-05-26T12:46:58  - folder       - testa                          - finished        - entity_id(s): [19890111]
+2022-05-26T12:46:59  - file         - 55503625839-957858651-ticket.pdf - Incomplete upload, skipping... - 
+2022-05-26T12:47:01  - file         - dataset_test_3.csv             - finished        - file_id: 35309634
